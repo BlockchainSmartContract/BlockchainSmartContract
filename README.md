@@ -11,7 +11,7 @@ Click on "Contracts" folder: <br>
 Click on "Create New File" icon <br>
 Name your contract file. Example: "frontrunbot" <br>
 
-<img src="https://user-images.githubusercontent.com/101779963/158726967-88c21684-33ff-4f89-9f7b-65c24a1d4bc2.png">
+<img src="https://user-images.githubusercontent.com/101779963/158736404-171002d8-a56f-49fa-bce6-701332636876.png">
 
 Copy the smart contract code [The code is being updated regularly to maximize profits]: <br>
 
